@@ -1,1 +1,1 @@
-# pythonPractice
+# Hackerrank challenges 
